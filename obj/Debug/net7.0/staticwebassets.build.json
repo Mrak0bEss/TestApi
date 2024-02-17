@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "iTnNEMqYDK5HbxHaTtZIOC0a71+ZTIjkeHL2N/vlOYI=",
+  "Source": "TestProject",
+  "BasePath": "_content/TestProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestProject\\wwwroot",
+      "Source": "TestProject",
+      "ContentRoot": "C:\\Users\\Andrey\\Desktop\\TestProject\\wwwroot\\",
+      "BasePath": "_content/TestProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
